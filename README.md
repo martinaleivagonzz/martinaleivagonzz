@@ -1,17 +1,35 @@
-##Martina Isabel Leiva G.
+# Martina Isabel Leiva G.
 
-####**Estudiante de [Ingeniería en Información y Control de Gestión](https://www.uach.cl/admision/puerto-montt/ingenieria-en-informacion-y-control-de-gestion)** | UACH 
-*Apasionada por Data Science, la Automatización y el Análisis de Mercado.*
+#### Estudiante de Ingeniería en Información y Control de Gestión | UACH
+Apasionada por Data Science, la Automatización y el Análisis de Mercado.
 
+---
 
+## Educación
+**Universidad Austral de Chile (UACH)**  
+Actual estudiante de Ingeniería en Información y Control de Gestión (2026 - Presente)
 
-####**Educación**
-___
-Universidad Austral de Chile (UACH).
-Actual estudiante de Ingenieria en Informacion y Control de Gestion *(2026 - Presente)*
-Cursos destacados:
-- 
-####**Certificaciones**
-___
-- Microsoft Azure [Data Fundamentals DP-900](https://learn.microsoft.com/es-es/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification).
-- Harvard CS50's [Introduction to Programming with Python](https://cs50.harvard.edu/python/).
+**Cursos destacados:**
+- [Lista tus cursos aquí]
+- [Por ejemplo: Análisis de Datos]
+- [Programación Avanzada]
+- [Bases de Datos]
+
+---
+
+## Certificaciones
+- **Microsoft Azure Data Fundamentals DP-900**
+- **Harvard CS50's Introduction to Programming with Python**
+
+---
+
+## Habilidades Técnicas
+- **Lenguajes:** Python, SQL
+- **Herramientas:** Azure, Git
+- **Áreas:** Data Science, Análisis de Datos, Automatización
+
+---
+
+## Contacto
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tu-perfil)
