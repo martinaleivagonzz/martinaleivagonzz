@@ -11,8 +11,10 @@ Apasionada por Data Science, la Automatización y el Análisis de Mercado.
 Actual estudiante de Ingeniería en Información y Control de Gestión (2026 - Presente)
 
 **Cursos destacados:**
--  	TECNOLOGÍAS Y SISTEMAS DE INFORMACIÓN
--  	
+-  	Tecnologias y Sistemas de Informacion. 
+-  	Programacion.
+-  	Gestion de Bases de Datos.
+-  	Herrarmientas de Bases de Datos. 
 
 ---
 
