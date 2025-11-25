@@ -8,19 +8,19 @@ Apasionada por Data Science, la Automatización y el Análisis de Mercado.
 
 ## Educación
 **Universidad Austral de Chile** [(UACH)](https://www.uach.cl/)
-Actual estudiante de Ingeniería en Información y Control de Gestión (2026 - Presente)
+Actual estudiante de Ingeniería en Información y Control de Gestión (2026 - Presente).
 
 **Cursos destacados:**
--  	Tecnologias y Sistemas de Informacion. 
--  	Programacion.
--  	Gestion de Bases de Datos.
--  	Herrarmientas de Bases de Datos. 
+- Tecnologías y Sistemas de Información.
+- Programación.
+- Gestión de Bases de Datos.
+- Herramientas de Bases de Datos.
 
 ---
 
 ## Certificaciones
-- **Microsoft Azure Data Fundamentals DP-900**
-- **Harvard CS50's Introduction to Programming with Python**
+- **Microsoft Azure Data Fundamentals DP-900.**
+- **Harvard CS50's Introduction to Programming with Python.**
 
 ---
 
