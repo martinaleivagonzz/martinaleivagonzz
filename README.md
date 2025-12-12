@@ -20,7 +20,7 @@ Actual estudiante de Ingeniería en Información y Control de Gestión (2026 - P
 
 ## Certificaciones
 - **Microsoft Azure Data Fundamentals DP-900.**
-- **Harvard CS50's Introduction to Programming with Python.**[Ver certificado](https://cs50.harvard.edu/certificates/37590555-b186-4655-bfaa-97491204fe2c)
+- **Harvard CS50's Introduction to Programming with Python.**  [[Ver certificado]](https://cs50.harvard.edu/certificates/37590555-b186-4655-bfaa-97491204fe2c)
 
 ---
 
